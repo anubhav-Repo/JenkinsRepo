@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="28" started-at="2021-09-19T16:59:13Z" finished-at="2021-09-19T16:59:13Z">
+  <suite name="Suite" duration-ms="26" started-at="2021-09-19T18:11:06Z" finished-at="2021-09-19T18:11:06Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="28" started-at="2021-09-19T16:59:13Z" finished-at="2021-09-19T16:59:13Z">
+    <test name="Test" duration-ms="26" started-at="2021-09-19T18:11:06Z" finished-at="2021-09-19T18:11:06Z">
       <class name="JenkinsTestGI.JenkinsTestAI.AppTest">
-        <test-method status="PASS" signature="firstTest()[pri:0, instance:JenkinsTestGI.JenkinsTestAI.AppTest@573f2bb1]" name="firstTest" duration-ms="10" started-at="2021-09-19T22:29:13Z" finished-at="2021-09-19T22:29:13Z">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:JenkinsTestGI.JenkinsTestAI.AppTest@573f2bb1]" name="firstTest" duration-ms="10" started-at="2021-09-19T23:41:06Z" finished-at="2021-09-19T23:41:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstTest -->
