@@ -2,9 +2,6 @@ package JenkinsTestGI.JenkinsTestAI;
 
 import org.testng.annotations.Test;
 
-/**
- * Unit test for simple App.
- */
 public class AppTest {
 
 	@Test
