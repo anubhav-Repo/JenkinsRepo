@@ -6,11 +6,10 @@ import org.testng.annotations.Test;
  * Unit test for simple App.
  */
 public class AppTest {
-	
+
 	@Test
-	public void firstTestCase(){
-		System.out.println("First Test case");
+	public void firstTest(){
+		System.out.println("My First Test Case...");
 	}
-	
-	
+
 }
